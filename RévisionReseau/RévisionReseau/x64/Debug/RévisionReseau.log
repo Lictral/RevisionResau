@@ -1,0 +1,7 @@
+﻿  RévisionReseau.cpp
+C:\Users\Liam\Documents\Github GC\R-vision\RévisionReseau\RévisionReseau\RévisionReseau.cpp(150,67): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Liam\Documents\Github GC\R-vision\RévisionReseau\RévisionReseau\RévisionReseau.cpp(184,57): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Liam\Documents\Github GC\R-vision\RévisionReseau\RévisionReseau\RévisionReseau.cpp(196,59): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+  RévisionReseau.vcxproj -> C:\Users\Liam\Documents\Github GC\R-vision\RévisionReseau\x64\Debug\RévisionReseau.exe
+  'pwsh.exe' n'est pas reconnu en tant que commande interne
+  ou externe, un programme exécutable ou un fichier de commandes.

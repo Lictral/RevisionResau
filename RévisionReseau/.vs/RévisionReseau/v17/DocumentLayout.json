@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Liam\\Documents\\Github GC\\R-vision\\R\u00E9visionReseau\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5A429-0281-478E-9B8E-7A78EA01CBC9}|R\u00E9visionReseau\\R\u00E9visionReseau.vcxproj|C:\\Users\\Liam\\Documents\\Github GC\\R-vision\\R\u00E9visionReseau\\R\u00E9visionReseau\\R\u00E9visionReseau.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AB5A429-0281-478E-9B8E-7A78EA01CBC9}|R\u00E9visionReseau\\R\u00E9visionReseau.vcxproj|solutionrelative:R\u00E9visionReseau\\R\u00E9visionReseau.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "R\u00E9visionReseau.cpp",
+              "DocumentMoniker": "C:\\Users\\Liam\\Documents\\Github GC\\R-vision\\R\u00E9visionReseau\\R\u00E9visionReseau\\R\u00E9visionReseau.cpp",
+              "RelativeDocumentMoniker": "R\u00E9visionReseau\\R\u00E9visionReseau.cpp",
+              "ToolTip": "C:\\Users\\Liam\\Documents\\Github GC\\R-vision\\R\u00E9visionReseau\\R\u00E9visionReseau\\R\u00E9visionReseau.cpp",
+              "RelativeToolTip": "R\u00E9visionReseau\\R\u00E9visionReseau.cpp",
+              "ViewState": "AgIAALQAAAAAAAAAAAAQwOEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-13T21:44:24.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
